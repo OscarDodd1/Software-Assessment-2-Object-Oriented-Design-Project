@@ -1,3 +1,4 @@
+## Part A - Data Selection and Game Attributes
 ### Attributes
 | Car         | Stat        | Higher/Lower |
 | ----------- | ----------- | ------------ |
@@ -5,12 +6,17 @@
 | 0-100       | (time)      | ↓            |
 | Engine Size | (cc or kWh) | ↑            |
 | Range       | (km)        | ↑            |
-| Weight      | (km)        | ↓            |
 | Payload     | (kg)        | ↑            |
-| 0-100       | (time)      | ↓            |
+| Weight      | (kg)        | ↓            |
+
+#### **Attribute Explanation**: My attributes where chosen as they are balanced and make the game fair, when one attribute is high, most of the time there will be atleast one attribute that is low making the card balanced for proper gameplay.
+
+## Part B - Class Design
 
 ### **Examples**
-| 2023 Toyota Tundra       ||
+
+### 2023 Toyota Tundra
+| ![My Project Screenshot](/Images/2023%20Toyota%20Tundra.webp)||
 | ----------- | ----------- |
 | Top speed   | 170         |
 | 0-100       | 6.2         |
@@ -19,7 +25,8 @@
 | Weight      | 2694        |
 | Payload     | 744         |
 
-| 2025 Porsche Taycan Turbo GT||
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | ----------- | ----------- |
 | Top speed   | 305         |
 | 0-100       | 2.3         |
@@ -28,7 +35,8 @@
 | Weight      | 2220        |
 | Payload     | 420         |
 
-| 2026 Porsche 911 GT3 992 II||
+### 2026 Porsche 911 GT3 992 II
+| ![2026 Porsche 911 GT3 992 II](/Images/2026%20Porsche%20911%20GT3%20992%20II.png)||
 | ----------- | ----------- |
 | Top speed   | 311         |
 | 0-100       | 3.4         |
@@ -37,6 +45,8 @@
 | Weight      | 1445        |
 | Payload     | 303         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 2024 Mercedes-AMG G63    ||
 | ----------- | ----------- |
 | Top speed   | 220         |
@@ -46,6 +56,8 @@
 | Weight      | 2553kg      |
 | Payload     | 640         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 2025 BMW M4 Competition G82||
 | ----------- | ----------- |
 | Top speed   | 250         |
@@ -55,6 +67,8 @@
 | Weight      | 1738        |
 | Payload     | 430         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 2022 Lamborghini Aventador LP 780-4 Ultimae||
 | ----------- | ----------- |
 | Top speed   | 355         |
@@ -64,6 +78,8 @@
 | Weight      | 1715        |
 | Payload     | 525         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 2025 Lamborghini Revuelto Auto AWD MY25||
 | ----------- | ----------- |
 | Top speed   | 350         |
@@ -73,6 +89,8 @@
 | Weight      | 1894        |
 | Payload     | 410         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 1971 Mercedes-Benz 280SE  ||
 | ----------- | ----------- |
 | Top speed   | 201         |
@@ -82,6 +100,8 @@
 | Weight      | 1495        |
 | Payload     | 500         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 1992 Porsche 911 Carrera RS||
 | ----------- | ----------- |
 | Top speed   | 260         |
@@ -91,6 +111,8 @@
 | Weight      | 1230        |
 | Payload     | 340         |
 
+### 2025 Porsche Taycan Turbo GT
+| ![2025 Porsche Taycan Turbo GT](/Images/2025%20Porsche%20Taycan%20Turbo%20GT.png)||
 | 2022 McLaren 765LT        ||
 | ----------- | ----------- |
 | Top speed   | 330         |
@@ -99,12 +121,3 @@
 | Range       | 545         |
 | Weight      | 1278        |
 | Payload     | 386         |
-
-| ||
-| ----------- | ----------- |
-| Top speed   |          |
-| 0-100       |          |
-| Engine Size |         |
-| Range       |          |
-| Weight      |         |
-| Payload     |          |
